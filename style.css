@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor{
+    max-width: 960px;
+    margin: 0px auto;
+}
+
+.table, th, td {
+    border : 1px solid black;
+    margin-left:relative;
+    }
+    
+
+.bloque h1{
+    margin: 0px;
+    text-align: center;
+    font-size: 80px;
+    color: aliceblue;
+    line-height: 550px;
+    
+}
+.bloque h5{
+    margin: 0px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    line-height: 550px;
+    
+}
+.bloque h4{
+    margin: 0px;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(245, 245, 245);
+    line-height: 550px;
+    
+}
+
+
+.bloque h2{
+    font-size: 24px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+.bloque h3{
+    font-size: 24px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+
+.bloque p{
+    font-size: 18px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+.bloque.parallax{
+    height: 600px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parallax.cover-1{
+    background-image: url(file:///C:/Users/USUARIO/Desktop/aprendiendo%20html/robot%20pensando.jpg);
+}
+.parallax.cover-2{
+    background-image: url(https://img.freepik.com/fotos-premium/concepto-inteligencia-artificial-visualizacion-grandes-datos-esfera-tecnologia-azul-representacion-3d-particulas_658411-53.jpg?w=2000);
+}
+.parallax.cover-3{
+    background-image: url(https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg);
+}
